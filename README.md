@@ -98,7 +98,7 @@ Though, generally it's recommended to use the Calibre plugin instead of these st
 
 If you want to run this plugin from source code (because you want to modify something or run a newer version from the master branch), it is not enough to simply ZIP up the "calibre-plugin" folder. You need to checkout the repository, then execute the "bundle_calibre_plugin.sh" script (which currently probably only works properly on Linux). 
 
-This will create the "calibre-plugin.zip" file which you can import into Calibre as a plugin.
+This will create the "calibre-plugin.zip" file which you can import into Calibre as a plugin. 
 
 ## To-Do list for the future (in no particular order)
 
