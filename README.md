@@ -100,7 +100,7 @@ If you want to run this plugin from source code (because you want to modify some
 
 This will create the "calibre-plugin.zip" file which you can import into Calibre as a plugin. 
 
-## To-Do list for the future (in no particular order)
+## To-Do list for the future (in no particular order) 
 
 - Support to copy an authorization from the plugin to an ADE install
 - Support for multiple independant authorizations (with an easy way to switch between them)
